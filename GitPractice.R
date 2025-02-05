@@ -14,3 +14,5 @@ mean(mtcars$mpg)
 hist(mtcars$mpg)
 
 #new changes
+plot(mtcars$mpg ~ mtcars$wt)
+
